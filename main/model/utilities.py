@@ -1,4 +1,3 @@
-from django import urls
 import torch 
 from PIL import Image
 import io
